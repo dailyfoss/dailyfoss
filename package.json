@@ -1,5 +1,5 @@
 {
-  "name": "proxmox-helper-scripts-website",
+  "name": "dailyfoss-website",
   "type": "module",
   "version": "1.0.0",
   "private": true,
@@ -50,6 +50,7 @@
     "mini-svg-data-uri": "^1.4.4",
     "motion": "^12.23.12",
     "next": "15.5.2",
+    "next-plausible": "^3.12.5",
     "next-themes": "^0.4.4",
     "nuqs": "^2.4.1",
     "pocketbase": "^0.21.5",

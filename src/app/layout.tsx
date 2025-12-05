@@ -86,7 +86,11 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <PlausibleProvider domain="dailyfoss.github.io" />
+        <PlausibleProvider 
+          domain="dailyfoss.github.io" 
+          customDomain="https://plausible.mvl.biz.id"
+          selfHosted
+        />
         <script defer src={`https://${analytics.url}/script.js`} data-website-id={analytics.token}></script>
         <link rel="canonical" href={metadata.metadataBase?.href} />
         <link rel="manifest" href="manifest.webmanifest" />
