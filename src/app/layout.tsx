@@ -11,6 +11,7 @@ import QueryProvider from "@/components/query-provider";
 import { Toaster } from "@/components/ui/sonner";
 import Footer from "@/components/footer";
 import Navbar from "@/components/navbar";
+import { PlausibleTracker } from "@/components/plausible-tracker";
 import "@/styles/globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -91,6 +92,7 @@ export default function RootLayout({
           customDomain="https://plausible.mvl.biz.id"
           selfHosted
           trackOutboundLinks
+          manualPageviews
         />
         <script defer src={`https://${analytics.url}/script.js`} data-website-id={analytics.token}></script>
         <script
@@ -105,6 +107,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://api.github.com" />
       </head>
       <body className={inter.className}>
+        <PlausibleTracker />
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
           <div className="flex w-full flex-col justify-center">
             <NuqsAdapter>
