@@ -9,7 +9,7 @@
   "documentation": "github.com/kamilkosek/jellyplist",
   "website": "github.com/kamilkosek/jellyplist",
   "source_code": "github.com/kamilkosek/jellyplist",
-  "github_stars": "376",
+  "github_stars": "377",
   "logo": "/icons/jellyplist.webp",
   "description": "jellyplist is a tool to convert playlists between Jellyfin and other media players or formats. It helps maintain consistent playlists across devices and applications by importing and exporting different playlist standards.",
   "install_methods": [

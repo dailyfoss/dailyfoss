@@ -9,7 +9,7 @@
   "documentation": "github.com/thijstakken/MusicService",
   "website": "thijstakken.github.io/MusicService/",
   "source_code": "github.com/thijstakken/MusicService",
-  "github_stars": "46",
+  "github_stars": "47",
   "logo": "/icons/music-service.webp",
   "description": "MusicService is a lightweight tool for organizing and streaming songs in a self-hosted environment. It supports playlist creation, metadata editing, and has a clean, responsive web interface.",
   "install_methods": [

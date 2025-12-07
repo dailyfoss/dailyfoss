@@ -9,7 +9,7 @@
   "documentation": "github.com/nothing2obvi/pixelfin",
   "website": "github.com/nothing2obvi/pixelfin",
   "source_code": "github.com/nothing2obvi/pixelfin",
-  "github_stars": "61",
+  "github_stars": "62",
   "logo": "/icons/pixelfin.webp",
   "description": "Pixelfin is a self-hosted pixel art editor with layer support, palette tools, and export features. Designed for pixel artists, it works directly in the browser without external dependencies.",
   "install_methods": [

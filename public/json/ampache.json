@@ -9,7 +9,7 @@
   "documentation": "github.com/ampache/ampache",
   "website": "http://ampache.org",
   "source_code": "github.com/ampache/ampache",
-  "github_stars": "3739",
+  "github_stars": "3740",
   "logo": "/icons/ampache.webp",
   "description": "Ampache is a self-hosted web-based music streaming server. It allows users to stream, browse, and share music and videos from any web browser or compatible client. It supports multi-user access, playlists, and API integrations.",
   "install_methods": [

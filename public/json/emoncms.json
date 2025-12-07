@@ -9,7 +9,7 @@
   "documentation": "github.com/emoncms/emoncms",
   "website": "emoncms.org",
   "source_code": "github.com/emoncms/emoncms",
-  "github_stars": "1298",
+  "github_stars": "1299",
   "logo": "/icons/emoncms.webp",
   "description": "Emoncms is a web-based application for logging, graphing, and processing energy and environmental data. Designed for energy monitoring setups, it supports feeds, dashboards, input processing, and integration with IoT devices.",
   "install_methods": [

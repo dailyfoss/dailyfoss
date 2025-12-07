@@ -9,7 +9,7 @@
   "documentation": "github.com/positive-intentions/chat",
   "website": "github.com/positive-intentions/chat",
   "source_code": "github.com/positive-intentions/chat",
-  "github_stars": "231",
+  "github_stars": "233",
   "logo": "/icons/positive-intentions-chat.webp",
   "description": "Chat is a self-hosted messaging app with user accounts, channels, and real-time communication using WebSockets. It focuses on privacy and supports theming and file transfers through a modern UI.",
   "install_methods": [

@@ -9,7 +9,7 @@
   "documentation": "github.com/agersant/polaris",
   "website": "github.com/agersant/polaris",
   "source_code": "github.com/agersant/polaris",
-  "github_stars": "2445",
+  "github_stars": "2449",
   "logo": "/icons/polaris.webp",
   "description": "Polaris is a self-hosted music streaming server with a sleek web UI. It serves Music library content over the browser or app and supports playlists, search, and metadata.",
   "install_methods": [

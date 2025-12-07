@@ -9,7 +9,7 @@
   "documentation": "github.com/7eventy7/trackly",
   "website": "github.com/7eventy7/trackly",
   "source_code": "github.com/7eventy7/trackly",
-  "github_stars": "58",
+  "github_stars": "59",
   "logo": "/icons/trackly.webp",
   "description": "Trackly is a self-hosted service for tracking habits or metrics over time. It records entries and renders charts and summaries to help visualize personal progress.",
   "install_methods": [

@@ -9,7 +9,7 @@
   "documentation": "github.com/sinamics/ztnet",
   "website": "ztnet.network",
   "source_code": "github.com/sinamics/ztnet",
-  "github_stars": "979",
+  "github_stars": "985",
   "logo": "/icons/ztnet.webp",
   "description": "ztnet is a self-hosted controller and management UI for ZeroTier networks. It lets administrators manage networks, members, and access rules via a central, easy-to-use web dashboard.",
   "install_methods": [

@@ -9,7 +9,7 @@
   "documentation": "github.com/muety/anchr",
   "website": "anchr.io",
   "source_code": "github.com/muety/anchr",
-  "github_stars": "357",
+  "github_stars": "356",
   "logo": "/icons/anchr.webp",
   "description": "Anchr is a lightweight personal bookmark and URL shortener service. It allows storing, tagging, and sharing bookmarks, shortening links, and managing them via a simple self-hosted web interface with REST API support.",
   "install_methods": [

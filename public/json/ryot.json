@@ -9,7 +9,7 @@
   "documentation": "github.com/IgnisDa/ryot",
   "website": "ryot.io",
   "source_code": "github.com/IgnisDa/ryot",
-  "github_stars": "2852",
+  "github_stars": "2855",
   "logo": "/icons/ryot.webp",
   "description": "Ryot is a self-hosted media tracking application for movies and shows, integrating with TMDB and Trakt. It includes playlists, search, and a smart dashboard UI.",
   "install_methods": [

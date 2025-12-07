@@ -9,7 +9,7 @@
   "documentation": "github.com/Termix-SSH/Termix",
   "website": "docs.termix.site/",
   "source_code": "github.com/Termix-SSH/Termix",
-  "github_stars": "7925",
+  "github_stars": "8034",
   "logo": "/icons/termix.webp",
   "description": "Termix is a self-hosted SSH management platform that exposes terminals in the browser. It lets admins organize hosts, manage keys, and open shell sessions directly from a web interface.",
   "install_methods": [

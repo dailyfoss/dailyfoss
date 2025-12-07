@@ -9,7 +9,7 @@
   "documentation": "github.com/Brandawg93/PeaNUT",
   "website": "github.com/Brandawg93/PeaNUT",
   "source_code": "github.com/Brandawg93/PeaNUT",
-  "github_stars": "1145",
+  "github_stars": "1149",
   "logo": "/icons/peanut.webp",
   "description": "PeaNUT is a self-hosted network visualization tool that provides insights into connected devices and services within homelab environments. It offers graph views for network topology and metadata.",
   "install_methods": [

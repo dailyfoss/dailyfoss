@@ -9,7 +9,7 @@
   "documentation": "github.com/nextcloud/social",
   "website": "apps.nextcloud.com/apps/social",
   "source_code": "github.com/nextcloud/social",
-  "github_stars": "500",
+  "github_stars": "499",
   "logo": "/icons/nextcloud-social.webp",
   "description": "Nextcloud Social is a federated social media app using ActivityPub. It enables posts, follows, and interaction with other platforms like Mastodon—all within the Nextcloud infrastructure.",
   "install_methods": [

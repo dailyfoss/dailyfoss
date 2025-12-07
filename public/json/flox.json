@@ -9,7 +9,7 @@
   "documentation": "github.com/Simounet/flox",
   "website": "simounet.github.io/flox/",
   "source_code": "github.com/Simounet/flox",
-  "github_stars": "29",
+  "github_stars": "30",
   "logo": "/icons/flox.webp",
   "description": "Flox is a self-hosted task and kanban tool designed to organize personal or project-based workflows. It includes board views, tasks, labels, and drag-and-drop interactions in a simple clean UI.",
   "install_methods": [

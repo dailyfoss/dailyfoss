@@ -9,7 +9,7 @@
   "documentation": "github.com/polius/FileSync",
   "website": "filesync.app",
   "source_code": "github.com/polius/FileSync",
-  "github_stars": "717",
+  "github_stars": "722",
   "logo": "/icons/filesync.webp",
   "description": "FileSync is a CLI-based file synchronization tool for replicating local or remote directories. Built to automate sync tasks with fast operations and minimal configuration. Ideal for use in cron jobs or automated backups.",
   "install_methods": [

@@ -9,7 +9,7 @@
   "documentation": "gitlab.com/Shinobi-Systems/Shinobi",
   "website": "http://shinobi.video/",
   "source_code": "gitlab.com/Shinobi-Systems/Shinobi",
-  "github_stars": "684",
+  "github_stars": "685",
   "logo": "/icons/shinobi.webp",
   "description": "Shinobi is a self-hosted, web-based CCTV and NVR solution. It supports multiple camera vendors, motion detection, recording, and alerting, aimed at advanced but user-friendly video surveillance setups.",
   "install_methods": [

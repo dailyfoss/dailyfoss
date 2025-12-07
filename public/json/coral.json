@@ -9,7 +9,7 @@
   "documentation": "github.com/coralproject/talk",
   "website": "coralproject.net",
   "source_code": "github.com/coralproject/talk",
-  "github_stars": "1961",
+  "github_stars": "1963",
   "logo": "/icons/coral.webp",
   "description": "Talk by Coral Project is an open-source comment platform that enables publishers to manage comment sections with moderation, identity tools, plugins, and spam filtering. It’s easy to self-host and integrates well across platforms.",
   "install_methods": [

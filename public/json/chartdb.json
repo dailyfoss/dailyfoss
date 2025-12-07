@@ -9,7 +9,7 @@
   "documentation": "github.com/chartdb/chartdb",
   "website": "chartdb.io",
   "source_code": "github.com/chartdb/chartdb",
-  "github_stars": "20440",
+  "github_stars": "20469",
   "logo": "/icons/chartdb.webp",
   "description": "ChartDB helps development teams document and manage software architecture using visual diagrams and Markdown. It features version control integration and self-hostable deployment for engineering organizations and teams.",
   "install_methods": [

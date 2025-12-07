@@ -9,7 +9,7 @@
   "documentation": "github.com/zane-ops/zane-ops",
   "website": "zaneops.dev",
   "source_code": "github.com/zane-ops/zane-ops",
-  "github_stars": "1187",
+  "github_stars": "1188",
   "logo": "/icons/zaneops.webp",
   "description": "zane-ops is a self-hosted operations dashboard for monitoring services and deployments. It aggregates status, logs, and metrics into a unified web interface for small teams or homelabs.",
   "install_methods": [

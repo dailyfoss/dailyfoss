@@ -9,7 +9,7 @@
   "documentation": "github.com/element-hq/synapse",
   "website": "element-hq.github.io/synapse",
   "source_code": "github.com/element-hq/synapse",
-  "github_stars": "3209",
+  "github_stars": "3220",
   "logo": "/icons/synapse.webp",
   "description": "Synapse is a reference Matrix homeserver implementation, enabling self-hosted federated chat. It powers encrypted messaging, VoIP, and bridging with a robust API surface.",
   "install_methods": [

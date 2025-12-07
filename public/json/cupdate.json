@@ -9,7 +9,7 @@
   "documentation": "github.com/AlexGustafsson/cupdate",
   "website": "alexgustafsson.github.io/cupdate/",
   "source_code": "github.com/AlexGustafsson/cupdate",
-  "github_stars": "281",
+  "github_stars": "282",
   "logo": "/icons/cupdate.webp",
   "description": "cupdate is a tool for automatically checking and updating containers, with support for Docker and container environments. It is designed for efficient maintenance using a simple CLI interface for updates and notifications.",
   "install_methods": [

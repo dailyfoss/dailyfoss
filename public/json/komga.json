@@ -9,7 +9,7 @@
   "documentation": "github.com/gotson/komga",
   "website": "komga.org",
   "source_code": "github.com/gotson/komga",
-  "github_stars": "5629",
+  "github_stars": "5646",
   "logo": "/icons/komga.webp",
   "description": "Komga is a self hosted comics and manga server. It organizes libraries, tracks reading progress, supports multiple users and provides a responsive reader interface, similar to what Jellyfin or Plex offer for video.",
   "install_methods": [

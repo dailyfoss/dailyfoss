@@ -9,7 +9,7 @@
   "documentation": "github.com/robinkarlberg/transfer.zip-web",
   "website": "transfer.zip",
   "source_code": "github.com/robinkarlberg/transfer.zip-web",
-  "github_stars": "1393",
+  "github_stars": "1396",
   "logo": "/icons/transfer-zip.webp",
   "description": "transfer.zip-web is a self-hosted file sharing service with drag-and-drop uploads and expiring download links. It aims to provide an easy way to send large files securely.",
   "install_methods": [

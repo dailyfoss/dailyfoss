@@ -9,7 +9,7 @@
   "documentation": "github.com/arpanghosh8453/fitbit-grafana",
   "website": "github.com/arpanghosh8453/fitbit-grafana",
   "source_code": "github.com/arpanghosh8453/fitbit-grafana",
-  "github_stars": "769",
+  "github_stars": "770",
   "logo": "/icons/fitbit-health-dashboard.webp",
   "description": "Fitbit-Grafana is a monitoring stack that extracts Fitbit data and visualizes it using Grafana dashboards. Great for individuals who want to self-host personal health analytics while keeping their activity data private.",
   "install_methods": [

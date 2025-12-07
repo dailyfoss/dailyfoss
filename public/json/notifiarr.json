@@ -9,7 +9,7 @@
   "documentation": "github.com/Notifiarr/notifiarr",
   "website": "notifiarr.wiki",
   "source_code": "github.com/Notifiarr/notifiarr",
-  "github_stars": "778",
+  "github_stars": "779",
   "logo": "/icons/notifiarr.webp",
   "description": "Notifiarr integrates self-hosted media systems like Plex, Radarr, and Sonarr with alerts, stats, and automation. It sends user notifications and status updates across devices via a configurable UI.",
   "install_methods": [

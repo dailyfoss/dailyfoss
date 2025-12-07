@@ -9,7 +9,7 @@
   "documentation": "github.com/foundryvtt/foundryvtt",
   "website": "foundryvtt.com/",
   "source_code": "github.com/foundryvtt/foundryvtt",
-  "github_stars": "327",
+  "github_stars": "328",
   "logo": "/icons/foundry-virtual-tabletop.webp",
   "description": "Foundry Virtual Tabletop is a self-hosted virtual tabletop for playing tabletop RPGs online. It provides dynamic maps, character sheets, dice rollers, and third-party modules. Ideal for private online gaming sessions.",
   "install_methods": [

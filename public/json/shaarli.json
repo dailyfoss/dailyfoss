@@ -9,7 +9,7 @@
   "documentation": "github.com/shaarli/Shaarli",
   "website": "shaarli.readthedocs.io/",
   "source_code": "github.com/shaarli/Shaarli",
-  "github_stars": "3751",
+  "github_stars": "3753",
   "logo": "/icons/shaarli.webp",
   "description": "Shaarli is a self-hosted bookmark manager and link sharing application. It allows tagging, private or public links, and simple theming, providing a minimal alternative to online bookmarking services.",
   "install_methods": [

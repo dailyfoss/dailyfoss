@@ -9,7 +9,7 @@
   "documentation": "github.com/kWeglinski/OmniPoly",
   "website": "github.com/kWeglinski/OmniPoly",
   "source_code": "github.com/kWeglinski/OmniPoly",
-  "github_stars": "94",
+  "github_stars": "95",
   "logo": "/icons/omnipoly.webp",
   "description": "OmniPoly is a self-hosted flashcard and spaced repetition tool with support for image and text content. It includes tagging, review scheduling, and a clean UI for personal study workflows.",
   "install_methods": [

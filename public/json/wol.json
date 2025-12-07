@@ -9,7 +9,7 @@
   "documentation": "github.com/Trugamr/wol",
   "website": "github.com/Trugamr/wol",
   "source_code": "github.com/Trugamr/wol",
-  "github_stars": "645",
+  "github_stars": "647",
   "logo": "/icons/wol.webp",
   "description": "wol is a small self-hosted tool for sending Wake-on-LAN packets to machines on your network. It provides a simple interface to store hosts and wake them remotely, making remote power management easier for homelab setups.",
   "install_methods": [

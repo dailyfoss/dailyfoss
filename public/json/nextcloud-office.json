@@ -9,7 +9,7 @@
   "documentation": "github.com/nextcloud/richdocuments",
   "website": "nextcloud.com/collaboraonline",
   "source_code": "github.com/nextcloud/richdocuments",
-  "github_stars": "412",
+  "github_stars": "414",
   "logo": "/icons/nextcloud-office.webp",
   "description": "Nextcloud Richdocuments integrates Collabora Online to enable collaborative editing of documents, spreadsheets, and presentations directly within a self-hosted Nextcloud environment.",
   "install_methods": [

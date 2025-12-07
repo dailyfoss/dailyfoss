@@ -9,7 +9,7 @@
   "documentation": "github.com/vitodeploy/vito",
   "website": "vitodeploy.com",
   "source_code": "github.com/vitodeploy/vito",
-  "github_stars": "2801",
+  "github_stars": "2804",
   "logo": "/icons/vito.webp",
   "description": "Vito is a self-hosted deployment and release dashboard for web services. It organizes environments, releases, and health checks into a unified web interface for teams.",
   "install_methods": [

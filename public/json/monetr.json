@@ -9,7 +9,7 @@
   "documentation": "github.com/monetr/monetr",
   "website": "monetr.app",
   "source_code": "github.com/monetr/monetr",
-  "github_stars": "487",
+  "github_stars": "493",
   "logo": "/icons/monetr.webp",
   "description": "Monetr is a self-hosted personal finance management platform that connects to banks to display transaction details, budget categories, and insights. It offers API access and real-time sync with Plaid.",
   "install_methods": [

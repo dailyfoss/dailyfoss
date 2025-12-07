@@ -9,7 +9,7 @@
   "documentation": "github.com/GauthierNelkinsky/ShipShipShip",
   "website": "github.com/GauthierNelkinsky/ShipShipShip",
   "source_code": "github.com/GauthierNelkinsky/ShipShipShip",
-  "github_stars": "176",
+  "github_stars": "177",
   "logo": "/icons/shipshipship.webp",
   "description": "ShipShipShip is a self-hosted deployment dashboard for managing and tracking releases across environments. It helps teams visualize deployments and versions with a simple, opinionated release UI.",
   "install_methods": [

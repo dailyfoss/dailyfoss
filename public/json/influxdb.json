@@ -9,7 +9,7 @@
   "documentation": "github.com/influxdata/influxdb",
   "website": "influxdata.com",
   "source_code": "github.com/influxdata/influxdb",
-  "github_stars": "30920",
+  "github_stars": "30940",
   "logo": "/icons/influxdb.webp",
   "description": "InfluxDB is a high performance time series database optimized for metrics and events. It supports SQL like queries, retention policies and integrations with dashboards and agents, and can be run self hosted or in managed cloud offerings.",
   "install_methods": [
