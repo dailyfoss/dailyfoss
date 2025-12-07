@@ -1,5 +1,285 @@
 [
   {
+    "name": "LimeSurvey/LimeSurvey",
+    "version": "remove",
+    "date": "2025-12-07T05:04:39.069Z"
+  },
+  {
+    "name": "LibrePhotos/librephotos",
+    "version": "v0.1",
+    "date": "2025-12-07T05:04:38.996Z"
+  },
+  {
+    "name": "danny-avila/LibreChat",
+    "version": "v0.8.1-rc2",
+    "date": "2025-12-07T05:04:38.958Z"
+  },
+  {
+    "name": "gabehf/Koito",
+    "version": "v0.0.14",
+    "date": "2025-12-07T05:04:38.914Z"
+  },
+  {
+    "name": "kanbn/kan",
+    "version": "v0.5.1",
+    "date": "2025-12-07T05:04:38.890Z"
+  },
+  {
+    "name": "dokku/dokku",
+    "version": "v0.37.2",
+    "date": "2025-12-07T03:33:25Z"
+  },
+  {
+    "name": "Zibbp/ganymede",
+    "version": "v4.9.2",
+    "date": "2025-12-06T23:20:39Z"
+  },
+  {
+    "name": "HemmeligOrg/Hemmelig.app",
+    "version": "v7.0.4",
+    "date": "2025-12-06T21:52:12Z"
+  },
+  {
+    "name": "Freika/dawarich",
+    "version": "0.36.2",
+    "date": "2025-12-06T19:56:27Z"
+  },
+  {
+    "name": "Dispatcharr/Dispatcharr",
+    "version": "v0.13.1",
+    "date": "2025-12-06T18:45:56Z"
+  },
+  {
+    "name": "blakeblackshear/frigate",
+    "version": "v0.16.3",
+    "date": "2025-12-06T18:15:00Z"
+  },
+  {
+    "name": "Impre-visible/invoicerr",
+    "version": "v1.4.0i",
+    "date": "2025-12-06T18:09:08Z"
+  },
+  {
+    "name": "Maintainerr/Maintainerr",
+    "version": "v2.23.0",
+    "date": "2025-12-06T16:53:39Z"
+  },
+  {
+    "name": "hedgedoc/hedgedoc",
+    "version": "1.10.5",
+    "date": "2025-12-06T16:51:53Z"
+  },
+  {
+    "name": "getfider/fider",
+    "version": "v0.32.0",
+    "date": "2025-12-06T16:20:28Z"
+  },
+  {
+    "name": "casdoor/casdoor",
+    "version": "v2.181.0",
+    "date": "2025-12-06T13:54:12Z"
+  },
+  {
+    "name": "error311/FileRise",
+    "version": "v2.3.6",
+    "date": "2025-12-06T11:25:49Z"
+  },
+  {
+    "name": "filebrowser/filebrowser",
+    "version": "v2.51.0",
+    "date": "2025-12-06T10:49:00Z"
+  },
+  {
+    "name": "freescout-help-desk/freescout",
+    "version": "1.8.198",
+    "date": "2025-12-06T06:02:54Z"
+  },
+  {
+    "name": "Jackett/Jackett",
+    "version": "v0.24.408",
+    "date": "2025-12-06T06:00:34Z"
+  },
+  {
+    "name": "TryGhost/Ghost",
+    "version": "v6.10.1",
+    "date": "2025-12-05T21:55:35Z"
+  },
+  {
+    "name": "RA341/dockman",
+    "version": "v2.5.0",
+    "date": "2025-12-05T21:11:46Z"
+  },
+  {
+    "name": "home-assistant/core",
+    "version": "2025.12.1",
+    "date": "2025-12-05T21:10:31Z"
+  },
+  {
+    "name": "homarr-labs/homarr",
+    "version": "v1.45.2",
+    "date": "2025-12-05T19:17:09Z"
+  },
+  {
+    "name": "HydroshieldMKII/Guardian",
+    "version": "v1.3.1",
+    "date": "2025-12-05T19:12:48Z"
+  },
+  {
+    "name": "kimdre/doco-cd",
+    "version": "v0.54.0",
+    "date": "2025-12-05T17:41:04Z"
+  },
+  {
+    "name": "coderaiser/cloudcmd",
+    "version": "v19.0.16",
+    "date": "2025-12-05T17:32:25Z"
+  },
+  {
+    "name": "dagu-org/dagu",
+    "version": "v1.25.1",
+    "date": "2025-12-05T16:20:50Z"
+  },
+  {
+    "name": "booklore-app/booklore",
+    "version": "v1.13.2",
+    "date": "2025-12-05T16:03:08Z"
+  },
+  {
+    "name": "calcom/cal.com",
+    "version": "v5.9.9",
+    "date": "2025-12-05T10:56:25Z"
+  },
+  {
+    "name": "Budibase/budibase",
+    "version": "3.23.37",
+    "date": "2025-12-05T10:41:14Z"
+  },
+  {
+    "name": "alam00000/bentopdf",
+    "version": "v1.10.5",
+    "date": "2025-12-05T09:28:50Z"
+  },
+  {
+    "name": "AppFlowy-IO/AppFlowy",
+    "version": "0.10.6",
+    "date": "2025-12-05T08:23:26Z"
+  },
+  {
+    "name": "esphome/esphome",
+    "version": "2025.11.4",
+    "date": "2025-12-05T03:54:58Z"
+  },
+  {
+    "name": "invoiceninja/invoiceninja",
+    "version": "v5.12.39",
+    "date": "2025-12-04T22:51:52Z"
+  },
+  {
+    "name": "damongolding/immich-kiosk",
+    "version": "v0.28.3",
+    "date": "2025-12-04T21:57:21Z"
+  },
+  {
+    "name": "successible/cleanslate",
+    "version": "v4.0.3",
+    "date": "2025-12-04T21:41:45Z"
+  },
+  {
+    "name": "LibreTranslate/LibreTranslate",
+    "version": "v1.8.3",
+    "date": "2025-12-04T21:07:00Z"
+  },
+  {
+    "name": "yusing/godoxy",
+    "version": "v0.20.12",
+    "date": "2025-12-04T17:20:32Z"
+  },
+  {
+    "name": "ShaneIsrael/fireshare",
+    "version": "v1.3.2",
+    "date": "2025-12-04T16:16:56Z"
+  },
+  {
+    "name": "event-catalog/eventcatalog",
+    "version": "v2.65.1",
+    "date": "2025-12-04T14:52:16Z"
+  },
+  {
+    "name": "cloudpanel-io/cloudpanel-ce",
+    "version": "v2.5.3",
+    "date": "2025-12-04T14:36:37Z"
+  },
+  {
+    "name": "crowdsecurity/crowdsec",
+    "version": "v1.7.4",
+    "date": "2025-12-04T13:56:39Z"
+  },
+  {
+    "name": "google/cadvisor",
+    "version": "v0.54.1",
+    "date": "2025-12-04T13:19:40Z"
+  },
+  {
+    "name": "appsmithorg/appsmith",
+    "version": "v1.93",
+    "date": "2025-12-04T13:06:43Z"
+  },
+  {
+    "name": "kestra-io/kestra",
+    "version": "v1.1.7",
+    "date": "2025-12-04T12:29:55Z"
+  },
+  {
+    "name": "formbricks/formbricks",
+    "version": "4.3.2",
+    "date": "2025-12-04T10:58:01Z"
+  },
+  {
+    "name": "Drop-OSS/drop",
+    "version": "v0.3.5",
+    "date": "2025-12-04T10:22:29Z"
+  },
+  {
+    "name": "glpi-project/glpi",
+    "version": "11.0.4",
+    "date": "2025-12-04T09:26:37Z"
+  },
+  {
+    "name": "LycheeOrg/Lychee",
+    "version": "v6.10.3",
+    "date": "2025-12-04T09:20:06Z"
+  },
+  {
+    "name": "calibrain/calibre-web-automated-book-downloader",
+    "version": "v0.3.0",
+    "date": "2025-12-04T02:08:30Z"
+  },
+  {
+    "name": "holtwick/briefing",
+    "version": "v3.1.12",
+    "date": "2025-12-03T22:14:12Z"
+  },
+  {
+    "name": "Infisical/infisical",
+    "version": "v0.154.4",
+    "date": "2025-12-03T21:52:06Z"
+  },
+  {
+    "name": "bigbluebutton/bigbluebutton",
+    "version": "v3.0.18",
+    "date": "2025-12-03T21:20:35Z"
+  },
+  {
+    "name": "danielbrendel/hortusfox-web",
+    "version": "v5.5",
+    "date": "2025-12-03T21:20:30Z"
+  },
+  {
+    "name": "gelbphoenix/autocaliweb",
+    "version": "v0.11.1",
+    "date": "2025-12-03T18:24:51Z"
+  },
+  {
     "name": "jptrsn/zip-captions",
     "version": "unknown",
     "date": "2025-12-03T18:18:15.555Z"
@@ -350,11 +630,6 @@
     "date": "2025-12-03T18:18:03.168Z"
   },
   {
-    "name": "home-assistant/core",
-    "version": "2025.12.0",
-    "date": "2025-12-03T18:07:51Z"
-  },
-  {
     "name": "nocobase/nocobase",
     "version": "v1.9.18",
     "date": "2025-12-03T18:04:37Z"
@@ -375,19 +650,9 @@
     "date": "2025-12-03T17:49:31Z"
   },
   {
-    "name": "alam00000/bentopdf",
-    "version": "v1.10.1",
-    "date": "2025-12-03T17:46:52Z"
-  },
-  {
     "name": "actualbudget/actual",
     "version": "v25.12.0",
     "date": "2025-12-03T17:45:09Z"
-  },
-  {
-    "name": "homarr-labs/homarr",
-    "version": "v1.45.1",
-    "date": "2025-12-03T17:43:51Z"
   },
   {
     "name": "dbgate/dbgate",
@@ -395,9 +660,9 @@
     "date": "2025-12-03T17:27:44Z"
   },
   {
-    "name": "esphome/esphome",
-    "version": "2025.11.3",
-    "date": "2025-12-03T16:37:01Z"
+    "name": "karakeep-app/karakeep",
+    "version": "v0.29.1",
+    "date": "2025-12-03T16:56:18Z"
   },
   {
     "name": "netdata/netdata",
@@ -475,11 +740,6 @@
     "date": "2025-12-03T12:05:27Z"
   },
   {
-    "name": "glpi-project/glpi",
-    "version": "11.0.3",
-    "date": "2025-12-03T12:00:17Z"
-  },
-  {
     "name": "OneUptime/oneuptime",
     "version": "9.1.3",
     "date": "2025-12-03T09:46:34Z"
@@ -488,16 +748,6 @@
     "name": "rcourtman/Pulse",
     "version": "v4.36.1",
     "date": "2025-12-03T09:27:17Z"
-  },
-  {
-    "name": "calcom/cal.com",
-    "version": "v5.9.8",
-    "date": "2025-12-03T09:26:20Z"
-  },
-  {
-    "name": "Budibase/budibase",
-    "version": "3.23.35",
-    "date": "2025-12-03T08:46:49Z"
   },
   {
     "name": "Stirling-Tools/Stirling-PDF",
@@ -528,21 +778,6 @@
     "name": "murtaza-nasir/speakr",
     "version": "v0.6.5-alpha",
     "date": "2025-12-03T06:48:08Z"
-  },
-  {
-    "name": "error311/FileRise",
-    "version": "v2.3.2",
-    "date": "2025-12-03T06:30:27Z"
-  },
-  {
-    "name": "casdoor/casdoor",
-    "version": "v2.177.0",
-    "date": "2025-12-03T05:59:27Z"
-  },
-  {
-    "name": "Jackett/Jackett",
-    "version": "v0.24.399",
-    "date": "2025-12-03T05:55:33Z"
   },
   {
     "name": "smallstep/certificates",
@@ -590,16 +825,6 @@
     "date": "2025-12-02T22:28:58Z"
   },
   {
-    "name": "ShaneIsrael/fireshare",
-    "version": "v1.3.1",
-    "date": "2025-12-02T22:04:41Z"
-  },
-  {
-    "name": "google/cadvisor",
-    "version": "v0.54.0",
-    "date": "2025-12-02T21:59:24Z"
-  },
-  {
     "name": "9001/copyparty",
     "version": "v1.19.21",
     "date": "2025-12-02T21:48:12Z"
@@ -613,11 +838,6 @@
     "name": "ad-on-is/rachoon",
     "version": "v1.3.6",
     "date": "2025-12-02T20:31:33Z"
-  },
-  {
-    "name": "Dispatcharr/Dispatcharr",
-    "version": "v0.13.0",
-    "date": "2025-12-02T19:27:54Z"
   },
   {
     "name": "KSJaay/Lunalytics",
@@ -700,11 +920,6 @@
     "date": "2025-12-02T14:58:59Z"
   },
   {
-    "name": "kestra-io/kestra",
-    "version": "v1.1.6",
-    "date": "2025-12-02T14:56:38Z"
-  },
-  {
     "name": "typemill/typemill",
     "version": "v2.19.4",
     "date": "2025-12-02T14:33:07Z"
@@ -738,11 +953,6 @@
     "name": "tobychui/zoraxy",
     "version": "v3.3.0-rc3",
     "date": "2025-12-02T13:45:13Z"
-  },
-  {
-    "name": "AppFlowy-IO/AppFlowy",
-    "version": "0.10.5",
-    "date": "2025-12-02T12:41:48Z"
   },
   {
     "name": "fscorrupt/posterizarr",
@@ -805,11 +1015,6 @@
     "date": "2025-12-02T04:09:40Z"
   },
   {
-    "name": "booklore-app/booklore",
-    "version": "v1.13.1",
-    "date": "2025-12-02T03:59:00Z"
-  },
-  {
     "name": "meeb/tubesync",
     "version": "v0.15.12",
     "date": "2025-12-02T03:52:52Z"
@@ -843,11 +1048,6 @@
     "name": "paperless-ngx/paperless-ngx",
     "version": "v2.20.1",
     "date": "2025-12-01T22:45:34Z"
-  },
-  {
-    "name": "invoiceninja/invoiceninja",
-    "version": "v5.12.37",
-    "date": "2025-12-01T22:25:17Z"
   },
   {
     "name": "coder/code-server",
@@ -905,16 +1105,6 @@
     "date": "2025-12-01T18:41:29Z"
   },
   {
-    "name": "Infisical/infisical",
-    "version": "v0.154.3",
-    "date": "2025-12-01T18:32:09Z"
-  },
-  {
-    "name": "TryGhost/Ghost",
-    "version": "v6.9.3",
-    "date": "2025-12-01T18:28:08Z"
-  },
-  {
     "name": "getsentry/sentry",
     "version": "25.11.1",
     "date": "2025-12-01T18:13:17Z"
@@ -938,11 +1128,6 @@
     "name": "VictoriaMetrics/VictoriaMetrics",
     "version": "v1.131.0",
     "date": "2025-12-01T16:37:25Z"
-  },
-  {
-    "name": "formbricks/formbricks",
-    "version": "4.3.1",
-    "date": "2025-12-01T16:33:22Z"
   },
   {
     "name": "blinkospace/blinko",
@@ -998,16 +1183,6 @@
     "name": "evcc-io/evcc",
     "version": "0.211.0",
     "date": "2025-12-01T11:22:11Z"
-  },
-  {
-    "name": "event-catalog/eventcatalog",
-    "version": "v2.65.0",
-    "date": "2025-12-01T11:16:09Z"
-  },
-  {
-    "name": "damongolding/immich-kiosk",
-    "version": "v0.28.1",
-    "date": "2025-12-01T10:54:03Z"
   },
   {
     "name": "Litlyx/litlyx",
@@ -1080,11 +1255,6 @@
     "date": "2025-11-30T21:56:10Z"
   },
   {
-    "name": "kimdre/doco-cd",
-    "version": "v0.53.0",
-    "date": "2025-11-30T21:12:34Z"
-  },
-  {
     "name": "Cleanuparr/Cleanuparr",
     "version": "v2.4.7",
     "date": "2025-11-30T20:59:51Z"
@@ -1125,19 +1295,9 @@
     "date": "2025-11-30T14:54:03Z"
   },
   {
-    "name": "dagu-org/dagu",
-    "version": "v1.24.11",
-    "date": "2025-11-30T14:32:26Z"
-  },
-  {
     "name": "alexjustesen/speedtest-tracker",
     "version": "v1.10.3",
     "date": "2025-11-30T14:21:35Z"
-  },
-  {
-    "name": "Maintainerr/Maintainerr",
-    "version": "v2.22.1",
-    "date": "2025-11-30T12:38:05Z"
   },
   {
     "name": "Arthi-chaud/Meelo",
@@ -1153,11 +1313,6 @@
     "name": "zwave-js/zwave-js-ui",
     "version": "v11.8.2",
     "date": "2025-11-30T08:39:28Z"
-  },
-  {
-    "name": "filebrowser/filebrowser",
-    "version": "v2.50.0",
-    "date": "2025-11-30T08:19:04Z"
   },
   {
     "name": "pommee/goaway",
@@ -1188,16 +1343,6 @@
     "name": "s1t5/mail-archiver",
     "version": "2511.3",
     "date": "2025-11-29T19:57:07Z"
-  },
-  {
-    "name": "Freika/dawarich",
-    "version": "0.36.1",
-    "date": "2025-11-29T19:00:34Z"
-  },
-  {
-    "name": "karakeep-app/karakeep",
-    "version": "v0.29.0",
-    "date": "2025-11-29T18:26:59Z"
   },
   {
     "name": "arabcoders/ytptube",
@@ -1325,11 +1470,6 @@
     "date": "2025-11-28T17:58:51Z"
   },
   {
-    "name": "Impre-visible/invoicerr",
-    "version": "v1.3.3b",
-    "date": "2025-11-28T17:40:56Z"
-  },
-  {
     "name": "n8n-io/n8n",
     "version": "n8n@1.122.4",
     "date": "2025-11-28T17:20:52Z"
@@ -1358,11 +1498,6 @@
     "name": "manyfold3d/manyfold",
     "version": "v0.129.4",
     "date": "2025-11-28T11:24:55Z"
-  },
-  {
-    "name": "coderaiser/cloudcmd",
-    "version": "v19.0.15",
-    "date": "2025-11-28T11:07:34Z"
   },
   {
     "name": "misskey-dev/misskey",
@@ -1410,11 +1545,6 @@
     "date": "2025-11-27T21:28:48Z"
   },
   {
-    "name": "bigbluebutton/bigbluebutton",
-    "version": "v3.0.17",
-    "date": "2025-11-27T20:38:40Z"
-  },
-  {
     "name": "pi-hole/pi-hole",
     "version": "v6.3",
     "date": "2025-11-27T18:12:22Z"
@@ -1455,11 +1585,6 @@
     "date": "2025-11-27T06:48:03Z"
   },
   {
-    "name": "successible/cleanslate",
-    "version": "v4.0.1",
-    "date": "2025-11-27T06:33:31Z"
-  },
-  {
     "name": "YunoHost/yunohost",
     "version": "debian/12.1.36",
     "date": "2025-11-27T00:33:48Z"
@@ -1498,11 +1623,6 @@
     "name": "NodeBB/NodeBB",
     "version": "v4.7.0",
     "date": "2025-11-26T16:59:45Z"
-  },
-  {
-    "name": "danny-avila/LibreChat",
-    "version": "v0.8.1-rc2",
-    "date": "2025-11-26T16:40:08Z"
   },
   {
     "name": "chrisbenincasa/tunarr",
@@ -1571,7 +1691,7 @@
   },
   {
     "name": "DrewThomasson/ebook2audiobook",
-    "version": "v25.12.3b12",
+    "version": "v25.12.4b14",
     "date": "2025-11-26T01:09:07Z"
   },
   {
@@ -1795,19 +1915,9 @@
     "date": "2025-11-23T09:40:36Z"
   },
   {
-    "name": "yusing/godoxy",
-    "version": "v0.20.10",
-    "date": "2025-11-23T03:49:14Z"
-  },
-  {
     "name": "go-gitea/gitea",
     "version": "v1.25.2",
     "date": "2025-11-22T19:37:02Z"
-  },
-  {
-    "name": "RA341/dockman",
-    "version": "v2.4.1",
-    "date": "2025-11-22T18:48:56Z"
   },
   {
     "name": "TechnitiumSoftware/DnsServer",
@@ -1830,19 +1940,9 @@
     "date": "2025-11-21T20:34:44Z"
   },
   {
-    "name": "gelbphoenix/autocaliweb",
-    "version": "v0.11.0",
-    "date": "2025-11-21T18:42:15Z"
-  },
-  {
     "name": "rclone/rclone",
     "version": "v1.72.0",
     "date": "2025-11-21T18:20:58Z"
-  },
-  {
-    "name": "freescout-help-desk/freescout",
-    "version": "1.8.197",
-    "date": "2025-11-21T17:53:34Z"
   },
   {
     "name": "FoxxMD/multi-scrobbler",
@@ -1920,11 +2020,6 @@
     "date": "2025-11-21T08:31:14Z"
   },
   {
-    "name": "dokku/dokku",
-    "version": "v0.37.0",
-    "date": "2025-11-21T04:48:18Z"
-  },
-  {
     "name": "teelur/budget-board",
     "version": "v3.0.0",
     "date": "2025-11-21T04:03:47Z"
@@ -1980,11 +2075,6 @@
     "date": "2025-11-20T11:01:01Z"
   },
   {
-    "name": "appsmithorg/appsmith",
-    "version": "v1.92",
-    "date": "2025-11-20T10:34:43Z"
-  },
-  {
     "name": "nextcloud/server",
     "version": "v32.0.2",
     "date": "2025-11-20T10:27:29Z"
@@ -2010,29 +2100,9 @@
     "date": "2025-11-20T03:10:27Z"
   },
   {
-    "name": "Zibbp/ganymede",
-    "version": "v4.9.1",
-    "date": "2025-11-20T02:50:03Z"
-  },
-  {
-    "name": "gabehf/Koito",
-    "version": "v0.0.14",
-    "date": "2025-11-20T01:26:56Z"
-  },
-  {
-    "name": "kanbn/kan",
-    "version": "v0.5.0",
-    "date": "2025-11-20T00:01:23Z"
-  },
-  {
     "name": "gitlab-org/gitlab-foss",
     "version": "v18.6.0",
     "date": "2025-11-20T00:00:00.000Z"
-  },
-  {
-    "name": "getfider/fider",
-    "version": "v0.31.0",
-    "date": "2025-11-19T22:18:40Z"
   },
   {
     "name": "qbittorrent/qBittorrent",
@@ -2120,11 +2190,6 @@
     "date": "2025-11-18T11:12:16Z"
   },
   {
-    "name": "LycheeOrg/Lychee",
-    "version": "v6.10.2",
-    "date": "2025-11-18T08:24:55Z"
-  },
-  {
     "name": "0xERR0R/blocky",
     "version": "v0.28.2",
     "date": "2025-11-18T05:51:46Z"
@@ -2178,11 +2243,6 @@
     "name": "binwiederhier/ntfy",
     "version": "v2.15.0",
     "date": "2025-11-16T18:53:49Z"
-  },
-  {
-    "name": "LibreTranslate/LibreTranslate",
-    "version": "v1.8.0",
-    "date": "2025-11-16T15:54:50Z"
   },
   {
     "name": "outline/outline",
@@ -2253,11 +2313,6 @@
     "name": "bscott/subtrackr",
     "version": "v0.4.7",
     "date": "2025-11-14T23:55:28Z"
-  },
-  {
-    "name": "Drop-OSS/drop",
-    "version": "v0.3.4",
-    "date": "2025-11-14T22:08:44Z"
   },
   {
     "name": "Lissy93/domain-locker",
@@ -2475,11 +2530,6 @@
     "date": "2025-11-11T04:18:40Z"
   },
   {
-    "name": "HydroshieldMKII/Guardian",
-    "version": "v1.2.8",
-    "date": "2025-11-11T04:05:27Z"
-  },
-  {
     "name": "anycable/anycable",
     "version": "v1.6.7",
     "date": "2025-11-10T21:46:10Z"
@@ -2648,11 +2698,6 @@
     "name": "stashapp/stash",
     "version": "v0.29.3",
     "date": "2025-11-06T06:15:55Z"
-  },
-  {
-    "name": "calibrain/calibre-web-automated-book-downloader",
-    "version": "v0.2.4",
-    "date": "2025-11-06T04:39:16Z"
   },
   {
     "name": "Notifiarr/notifiarr",
@@ -2900,11 +2945,6 @@
     "date": "2025-10-30T16:28:45Z"
   },
   {
-    "name": "danielbrendel/hortusfox-web",
-    "version": "v5.4",
-    "date": "2025-10-30T14:25:23Z"
-  },
-  {
     "name": "leepeuker/movary",
     "version": "0.69.0",
     "date": "2025-10-30T08:07:53Z"
@@ -3018,11 +3058,6 @@
     "name": "asciinema/asciinema",
     "version": "v3.0.1",
     "date": "2025-10-24T14:19:25Z"
-  },
-  {
-    "name": "crowdsecurity/crowdsec",
-    "version": "v1.7.3",
-    "date": "2025-10-24T10:51:12Z"
   },
   {
     "name": "EgalitarianMonkey/hometube",
@@ -3253,11 +3288,6 @@
     "name": "linkwarden/linkwarden",
     "version": "v2.13.1",
     "date": "2025-10-15T13:29:37Z"
-  },
-  {
-    "name": "blakeblackshear/frigate",
-    "version": "v0.16.2",
-    "date": "2025-10-15T11:30:52Z"
   },
   {
     "name": "DefGuard/defguard",
@@ -3715,11 +3745,6 @@
     "date": "2025-09-13T09:12:07Z"
   },
   {
-    "name": "HemmeligOrg/Hemmelig.app",
-    "version": "v6.7.7",
-    "date": "2025-09-11T09:59:54Z"
-  },
-  {
     "name": "VityaSchel/lufin",
     "version": "v1.0.0",
     "date": "2025-09-10T20:39:26Z"
@@ -4078,11 +4103,6 @@
     "name": "pinkary-project/pinkary.com",
     "version": "v1.45.1",
     "date": "2025-08-05T15:23:34Z"
-  },
-  {
-    "name": "cloudpanel-io/cloudpanel-ce",
-    "version": "v2.5.2",
-    "date": "2025-08-05T13:46:52Z"
   },
   {
     "name": "InvoicePlane/InvoicePlane",
@@ -4563,11 +4583,6 @@
     "name": "StarFleetCPTN/GoMFT",
     "version": "v0.2.11",
     "date": "2025-04-12T21:13:08Z"
-  },
-  {
-    "name": "hedgedoc/hedgedoc",
-    "version": "1.10.3",
-    "date": "2025-04-09T22:30:29Z"
   },
   {
     "name": "garanda21/geoposler",
@@ -5340,11 +5355,6 @@
     "date": "2023-12-24T11:07:03Z"
   },
   {
-    "name": "holtwick/briefing",
-    "version": "v3.1.11",
-    "date": "2023-12-17T20:54:42Z"
-  },
-  {
     "name": "snuffyDev/Beatbump",
     "version": "v0.32.0",
     "date": "2023-12-10T00:05:38Z"
@@ -5495,11 +5505,6 @@
     "date": "2019-11-19T06:34:33Z"
   },
   {
-    "name": "LimeSurvey/LimeSurvey",
-    "version": "remove",
-    "date": "2019-04-30T08:35:41Z"
-  },
-  {
     "name": "causefx/Organizr",
     "version": "1.90",
     "date": "2019-02-26T18:53:26Z"
@@ -5508,11 +5513,6 @@
     "name": "ansible-community/ara",
     "version": "old-flask-1.0",
     "date": "2018-08-09T23:00:24Z"
-  },
-  {
-    "name": "LibrePhotos/librephotos",
-    "version": "v0.1",
-    "date": "2018-06-11T07:58:06Z"
   },
   {
     "name": "tvheadend/tvheadend",
