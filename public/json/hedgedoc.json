@@ -9,7 +9,7 @@
   "documentation": "github.com/hedgedoc/hedgedoc",
   "website": "hedgedoc.org",
   "source_code": "github.com/hedgedoc/hedgedoc",
-  "github_stars": "6717",
+  "github_stars": "6730",
   "logo": "/icons/hedgedoc.webp",
   "description": "HedgeDoc is an open source collaborative markdown editor that lets multiple users write documents in real time. It supports slide decks, diagrams, media embeds, and integrates easily into self hosted knowledge or documentation stacks.",
   "install_methods": [

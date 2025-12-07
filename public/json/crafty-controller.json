@@ -9,7 +9,7 @@
   "documentation": "gitlab.com/crafty-controller/crafty-4",
   "website": "craftycontrol.com/",
   "source_code": "gitlab.com/crafty-controller/crafty-4",
-  "github_stars": "193",
+  "github_stars": "194",
   "logo": "/icons/crafty-controller.webp",
   "description": "Crafty Controller is a Minecraft server manager with a web UI to manage multiple game instances. It provides real-time logs, backups, whitelist management, and supports cross-platform deployments.",
   "install_methods": [

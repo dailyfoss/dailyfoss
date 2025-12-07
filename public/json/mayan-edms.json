@@ -9,7 +9,7 @@
   "documentation": "gitlab.com/mayan-edms/mayan-edms",
   "website": "www.mayan-edms.com/",
   "source_code": "gitlab.com/mayan-edms/mayan-edms",
-  "github_stars": "659",
+  "github_stars": "661",
   "logo": "/icons/mayan-edms.webp",
   "description": "Mayan EDMS is an enterprise-grade electronic document management system with OCR, metadata extraction, and workflow automation. It’s designed for archival, search, and compliance needs in self-hosted environments.",
   "install_methods": [

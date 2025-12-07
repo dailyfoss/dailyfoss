@@ -9,7 +9,7 @@
   "documentation": "github.com/Readarr/Readarr",
   "website": "http://readarr.com",
   "source_code": "github.com/Readarr/Readarr",
-  "github_stars": "3382",
+  "github_stars": "3385",
   "logo": "/icons/readarr.webp",
   "description": "Readarr is a self-hosted ebook and audiobook collection manager for Usenet and torrents. It integrates with Calibre, tracks authors, and automates downloads via indexers.",
   "install_methods": [

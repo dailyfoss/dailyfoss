@@ -9,7 +9,7 @@
   "documentation": "github.com/Beast12/who-rang",
   "website": "github.com/Beast12/who-rang",
   "source_code": "github.com/Beast12/who-rang",
-  "github_stars": "206",
+  "github_stars": "207",
   "logo": "/icons/whorang.webp",
   "description": "who-rang turns your smart doorbell into an AI-powered visitor identification system. It uses face recognition and multiple AI providers to classify visitors, log events, and present rich analytics via a self-hosted web dashboard.",
   "install_methods": [

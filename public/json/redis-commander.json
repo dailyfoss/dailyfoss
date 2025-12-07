@@ -9,7 +9,7 @@
   "documentation": "github.com/joeferner/redis-commander",
   "website": "http://joeferner.github.io/redis-commander/",
   "source_code": "github.com/joeferner/redis-commander",
-  "github_stars": "3925",
+  "github_stars": "3929",
   "logo": "/icons/redis-commander.webp",
   "description": "Redis Commander is a self-hosted web UI for browsing and managing Redis databases. It displays keys, values, TTLs, and supports CRUD operations for easier debugging.",
   "install_methods": [

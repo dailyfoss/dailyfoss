@@ -9,7 +9,7 @@
   "documentation": "github.com/gssariev/overr-syncerr",
   "website": "github.com/gssariev/overr-syncerr",
   "source_code": "github.com/gssariev/overr-syncerr",
-  "github_stars": "151",
+  "github_stars": "152",
   "logo": "/icons/overr-syncerr.webp",
   "description": "Overr-Syncerr is a self-hosted automation tool for syncing Plex media libraries by matching and updating content metadata and watched status across instances.",
   "install_methods": [

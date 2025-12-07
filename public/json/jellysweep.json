@@ -9,7 +9,7 @@
   "documentation": "github.com/jon4hz/jellysweep",
   "website": "github.com/jon4hz/jellysweep",
   "source_code": "github.com/jon4hz/jellysweep",
-  "github_stars": "126",
+  "github_stars": "128",
   "logo": "/icons/jellysweep.webp",
   "description": "jellysweep is a cleanup tool for Jellyfin libraries. It scans media collections for missing, duplicate or orphaned entries and helps administrators keep their metadata and files tidy in large self hosted libraries.",
   "install_methods": [

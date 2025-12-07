@@ -9,7 +9,7 @@
   "documentation": "github.com/Reaparr/Reaparr",
   "website": "www.reaparr.rocks",
   "source_code": "github.com/Reaparr/Reaparr",
-  "github_stars": "572",
+  "github_stars": "573",
   "logo": "/icons/reaparr.webp",
   "description": "Reaparr is a self-hosted automation dashboard for managing Pirate streaming tools like Sonarr and Radarr. It features status overviews, control tools, and link management.",
   "install_methods": [

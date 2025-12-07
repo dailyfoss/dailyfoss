@@ -9,7 +9,7 @@
   "documentation": "github.com/formsmd/formsmd",
   "website": "forms.md",
   "source_code": "github.com/formsmd/formsmd",
-  "github_stars": "718",
+  "github_stars": "721",
   "logo": "/icons/forms-md.webp",
   "description": "FormsMD is a self-hosted Markdown-based form builder. It turns MD-like syntax into shareable forms with submissions tracked via a lightweight backend, making it ideal for simple surveys or feedback collection without external dependencies.",
   "install_methods": [

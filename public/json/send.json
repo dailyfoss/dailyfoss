@@ -9,7 +9,7 @@
   "documentation": "gitlab.com/timvisee/send",
   "website": "send.vis.ee/",
   "source_code": "gitlab.com/timvisee/send",
-  "github_stars": "289",
+  "github_stars": "290",
   "logo": "/icons/send.webp",
   "description": "timvisee/send is a community-maintained fork of Mozilla Send, a self-hosted encrypted file sharing service with expiring links. Files are end-to-end encrypted in the browser and can be shared via short URLs.",
   "install_methods": [

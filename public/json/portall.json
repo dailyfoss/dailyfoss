@@ -9,7 +9,7 @@
   "documentation": "github.com/need4swede/Portall",
   "website": "github.com/need4swede/Portall",
   "source_code": "github.com/need4swede/Portall",
-  "github_stars": "773",
+  "github_stars": "772",
   "logo": "/icons/portall.webp",
   "description": "Portall is a self-hosted dashboard that displays shortcuts to internal apps, stats, and widgets. Designed for homelab users, it simplifies navigation across multiple services.",
   "install_methods": [

@@ -9,7 +9,7 @@
   "documentation": "github.com/reviewboard/reviewboard",
   "website": "www.reviewboard.org/",
   "source_code": "github.com/reviewboard/reviewboard",
-  "github_stars": "1675",
+  "github_stars": "1677",
   "logo": "/icons/review-board.webp",
   "description": "Review Board is a self-hosted code review tool that integrates with Git, SVN, and Mercurial. It includes inline comments, diff views, and workflow tracking for engineering teams.",
   "install_methods": [

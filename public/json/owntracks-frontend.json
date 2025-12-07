@@ -9,7 +9,7 @@
   "documentation": "github.com/owntracks/frontend",
   "website": "github.com/owntracks/frontend",
   "source_code": "github.com/owntracks/frontend",
-  "github_stars": "500",
+  "github_stars": "499",
   "logo": "/icons/owntracks-frontend.webp",
   "description": "OwnTracks Frontend is a self-hosted web interface for viewing location data from OwnTracks apps. It displays location history and maps for tracking personal or family privacy-friendly geolocation.",
   "install_methods": [

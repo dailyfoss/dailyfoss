@@ -9,7 +9,7 @@
   "documentation": "github.com/civilblur/youlag",
   "website": "github.com/civilblur/youlag",
   "source_code": "github.com/civilblur/youlag",
-  "github_stars": "136",
+  "github_stars": "138",
   "logo": "/icons/youlag.webp",
   "description": "Youlag is a self-hosted latency and response tracking tool for services, visualizing delays and outages over time. It aims to provide quick, intuitive insight into user-perceived performance.",
   "install_methods": [
