@@ -28,7 +28,7 @@ jobs:
       - name: Update versions
         run: bun run update-versions
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Read summary
         id: summary
