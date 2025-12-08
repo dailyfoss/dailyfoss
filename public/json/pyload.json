@@ -9,7 +9,7 @@
   "documentation": "github.com/pyload/pyload",
   "website": "pyload.net",
   "source_code": "github.com/pyload/pyload",
-  "github_stars": "3638",
+  "github_stars": "3637",
   "logo": "/icons/pyload.webp",
   "description": "pyLoad is a self-hosted download manager focused on file hosting services and automation. It supports plugins, scheduling, and a web UI for queue management and link handling.",
   "install_methods": [

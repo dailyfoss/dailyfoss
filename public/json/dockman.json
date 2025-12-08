@@ -9,7 +9,7 @@
   "documentation": "github.com/RA341/dockman",
   "website": "dockman.radn.dev/",
   "source_code": "github.com/RA341/dockman",
-  "github_stars": "481",
+  "github_stars": "480",
   "logo": "/icons/dockman.webp",
   "description": "Dockman is a lightweight TUI and CLI tool for managing Docker containers and images. It offers a curses-based interface for viewing logs, stats, and executing commands without a web UI.",
   "install_methods": [

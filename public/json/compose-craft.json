@@ -9,7 +9,7 @@
   "documentation": "github.com/composecraft/composecraft",
   "website": "composecraft.com",
   "source_code": "github.com/composecraft/composecraft",
-  "github_stars": "972",
+  "github_stars": "973",
   "logo": "/icons/compose-craft.webp",
   "description": "ComposeCraft is a web-based GUI for generating and managing Docker Compose files. It lets users visually edit services, volumes, and networks and export YAML, ideal for beginners and system administrators.",
   "install_methods": [

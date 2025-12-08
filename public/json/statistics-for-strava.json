@@ -9,7 +9,7 @@
   "documentation": "github.com/robiningelbrecht/statistics-for-strava",
   "website": "statistics-for-strava.robiningelbrecht.be/",
   "source_code": "github.com/robiningelbrecht/statistics-for-strava",
-  "github_stars": "1334",
+  "github_stars": "1337",
   "logo": "/icons/statistics-for-strava.webp",
   "description": "Statistics for Strava is a self-hosted analytics dashboard for Strava athletes. It imports activities and displays advanced stats, charts, and trends.",
   "install_methods": [
