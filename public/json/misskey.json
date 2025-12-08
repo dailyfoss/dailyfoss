@@ -9,7 +9,7 @@
   "documentation": "github.com/misskey-dev/misskey",
   "website": "misskey-hub.net/",
   "source_code": "github.com/misskey-dev/misskey",
-  "github_stars": "10851",
+  "github_stars": "10854",
   "logo": "/icons/misskey.webp",
   "description": "Misskey is a modern, decentralized social media platform built with ActivityPub. It supports real-time interactions, reactions, custom emoji, themes, and federation across servers.",
   "install_methods": [

@@ -9,7 +9,7 @@
   "documentation": "github.com/jofoerster/habitsync",
   "website": "github.com/jofoerster/habitsync",
   "source_code": "github.com/jofoerster/habitsync",
-  "github_stars": "186",
+  "github_stars": "187",
   "logo": "/icons/habitsync.webp",
   "description": "HabitSync is a self-hosted habit tracker that syncs daily routines and progress between devices. It supports streaks, charts, and reminders designed with a focus on privacy and data control.",
   "install_methods": [

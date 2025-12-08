@@ -9,7 +9,7 @@
   "documentation": "github.com/haproxy/haproxy",
   "website": "git.haproxy.org/",
   "source_code": "github.com/haproxy/haproxy",
-  "github_stars": "6143",
+  "github_stars": "6147",
   "logo": "/icons/haproxy.webp",
   "description": "HAProxy is a high-performance TCP/HTTP load balancer and reverse proxy server designed for high availability and scalability. Commonly used in production to expose microservices and secure backend connections.",
   "install_methods": [

@@ -9,7 +9,7 @@
   "documentation": "github.com/psviderski/unregistry",
   "website": "github.com/psviderski/unregistry",
   "source_code": "github.com/psviderski/unregistry",
-  "github_stars": "4118",
+  "github_stars": "4127",
   "logo": "/icons/unregistry.webp",
   "description": "Unregistry is a self-hosted Docker registry browser that presents images, tags, and metadata from container registries in a user-friendly web interface.",
   "install_methods": [
