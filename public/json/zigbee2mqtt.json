@@ -12,8 +12,8 @@
     "version": "2.7.1",
     "date_app_added": "2025-11-23",
     "date_last_released": "2025-12-06",
-    "date_last_commit": "2025-12-10",
-    "github_stars": 14339
+    "date_last_commit": "2025-12-13",
+    "github_stars": 14342
   },
   "resources": {
     "website": "https://www.zigbee2mqtt.io",

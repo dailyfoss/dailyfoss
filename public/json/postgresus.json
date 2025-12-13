@@ -9,11 +9,11 @@
   "metadata": {
     "sponsored": false,
     "license": "Apache-2.0",
-    "version": "v2.1.0",
+    "version": "v2.2.0",
     "date_app_added": "2025-11-23",
-    "date_last_released": "2025-12-11",
+    "date_last_released": "2025-12-13",
     "date_last_commit": "2025-12-13",
-    "github_stars": 2980
+    "github_stars": 2986
   },
   "resources": {
     "website": "https://postgresus.com",
