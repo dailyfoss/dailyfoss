@@ -8,20 +8,20 @@
   ],
   "metadata": {
     "sponsored": false,
-    "license": null,
-    "version": null,
+    "license": "AGPL-3.0",
+    "version": "v0.4.2",
     "date_app_added": "2025-11-23",
-    "date_last_released": null,
-    "date_last_commit": null,
-    "github_stars": null
+    "date_last_released": "2020-12-07",
+    "date_last_commit": "2025-12-07",
+    "github_stars": 499
   },
   "resources": {
-    "website": null,
-    "documentation": null,
+    "website": "https://apps.nextcloud.com/apps/social",
+    "documentation": "https://apps.nextcloud.com/apps/social",
     "source_code": "https://github.com/nextcloud/social",
     "logo": "/icons/nextcloud-social.webp",
-    "issues": null,
-    "releases": null
+    "issues": "https://github.com/nextcloud/social/issues",
+    "releases": "https://github.com/nextcloud/social/releases"
   },
   "features": [
     "ActivityPub federation: Connect with Mastodon, Pleroma, and other federated social networks.",

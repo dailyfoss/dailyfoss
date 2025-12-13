@@ -8,20 +8,20 @@
   ],
   "metadata": {
     "sponsored": false,
-    "license": null,
-    "version": null,
+    "license": "NOASSERTION",
+    "version": "v0.3.9",
     "date_app_added": "2025-11-23",
-    "date_last_released": null,
-    "date_last_commit": null,
-    "github_stars": null
+    "date_last_released": "2025-12-03",
+    "date_last_commit": "2025-12-03",
+    "github_stars": 231
   },
   "resources": {
     "website": null,
     "documentation": null,
     "source_code": "https://github.com/EinAeffchen/Omoide",
     "logo": "/icons/omoide.webp",
-    "issues": null,
-    "releases": null
+    "issues": "https://github.com/EinAeffchen/Omoide/issues",
+    "releases": "https://github.com/EinAeffchen/Omoide/releases"
   },
   "features": [
     "Analytics Dashboard: Visual metrics and usage statistics with customizable charts to track performance and user engagement.",

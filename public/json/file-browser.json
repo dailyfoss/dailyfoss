@@ -9,11 +9,11 @@
   "metadata": {
     "sponsored": false,
     "license": "Apache-2.0",
-    "version": "v2.51.2",
+    "version": "v2.52.0",
     "date_app_added": "2025-11-23",
-    "date_last_released": "2025-12-07",
-    "date_last_commit": "2025-12-10",
-    "github_stars": 32421
+    "date_last_released": "2025-12-13",
+    "date_last_commit": "2025-12-13",
+    "github_stars": 32422
   },
   "resources": {
     "website": "https://filebrowser.org",

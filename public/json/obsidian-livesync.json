@@ -9,9 +9,9 @@
   "metadata": {
     "sponsored": false,
     "license": "MIT",
-    "version": null,
+    "version": "0.25.34",
     "date_app_added": "2025-11-23",
-    "date_last_released": null,
+    "date_last_released": "2025-12-10",
     "date_last_commit": "2025-12-10",
     "github_stars": 8634
   },
@@ -21,7 +21,7 @@
     "source_code": "https://github.com/vrtmrz/obsidian-livesync",
     "logo": "/icons/obsidian-livesync.webp",
     "issues": "https://github.com/vrtmrz/obsidian-livesync/issues",
-    "releases": null
+    "releases": "https://github.com/vrtmrz/obsidian-livesync/releases"
   },
   "features": [
     "Real-time sync: Keep Obsidian vaults synchronized across desktop and mobile devices with automatic change detection.",

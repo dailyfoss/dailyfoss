@@ -9,11 +9,11 @@
   "metadata": {
     "sponsored": false,
     "license": "Apache-2.0",
-    "version": null,
+    "version": "v3.0.0",
     "date_app_added": "2025-11-23",
-    "date_last_released": null,
+    "date_last_released": "2025-04-01",
     "date_last_commit": "2025-12-09",
-    "github_stars": 16218
+    "github_stars": 16222
   },
   "resources": {
     "website": "https://neko.m1k1o.net/",
@@ -21,7 +21,7 @@
     "source_code": "https://github.com/m1k1o/neko",
     "logo": "/icons/neko.webp",
     "issues": "https://github.com/m1k1o/neko/issues",
-    "releases": null,
+    "releases": "https://github.com/m1k1o/neko/releases",
     "logo_light": "/icons/neko-light.webp"
   },
   "features": [

@@ -12,7 +12,7 @@
     "version": null,
     "date_app_added": "2025-11-23",
     "date_last_released": null,
-    "date_last_commit": "2025-12-12",
+    "date_last_commit": "2025-12-13",
     "github_stars": 4579
   },
   "resources": {
@@ -21,7 +21,7 @@
     "source_code": "https://github.com/openemr/openemr",
     "logo": "/icons/openemr.webp",
     "issues": "https://github.com/openemr/openemr/issues",
-    "releases": "https://github.com/openemr/openemr/releases",
+    "releases": null,
     "logo_light": "/icons/openemr-light.webp"
   },
   "features": [
