@@ -9,9 +9,9 @@
   "metadata": {
     "sponsored": false,
     "license": "AGPL-3.0",
-    "version": null,
+    "version": "3000.7.0",
     "date_app_added": "2025-11-23",
-    "date_last_released": null,
+    "date_last_released": "2025-12-01",
     "date_last_commit": "2025-12-08",
     "github_stars": 3319
   },
@@ -21,7 +21,7 @@
     "source_code": "https://github.com/OliveTin/OliveTin",
     "logo": "/icons/olivetin.webp",
     "issues": "https://github.com/OliveTin/OliveTin/issues",
-    "releases": null
+    "releases": "https://github.com/OliveTin/OliveTin/releases"
   },
   "features": [
     "Analytics Dashboard: Visual metrics and usage statistics with customizable charts to track performance and user engagement.",

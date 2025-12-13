@@ -13,7 +13,7 @@
     "date_app_added": "2025-11-23",
     "date_last_released": null,
     "date_last_commit": "2025-12-07",
-    "github_stars": 44309
+    "github_stars": 44322
   },
   "resources": {
     "website": "https://opencut.app",
@@ -21,7 +21,7 @@
     "source_code": "https://github.com/OpenCut-app/OpenCut",
     "logo": "/icons/opencut.webp",
     "issues": "https://github.com/OpenCut-app/OpenCut/issues",
-    "releases": "https://github.com/OpenCut-app/OpenCut/releases",
+    "releases": null,
     "logo_light": "/icons/opencut-light.webp"
   },
   "features": [

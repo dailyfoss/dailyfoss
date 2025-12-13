@@ -12,8 +12,8 @@
     "version": "v6.3",
     "date_app_added": "2025-11-23",
     "date_last_released": "2025-11-27",
-    "date_last_commit": "2025-12-07",
-    "github_stars": 54725
+    "date_last_commit": "2025-12-13",
+    "github_stars": 54727
   },
   "resources": {
     "website": "https://pi-hole.net",

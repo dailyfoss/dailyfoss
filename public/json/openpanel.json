@@ -12,7 +12,7 @@
     "version": null,
     "date_app_added": "2025-11-23",
     "date_last_released": null,
-    "date_last_commit": "2025-12-12",
+    "date_last_commit": "2025-12-13",
     "github_stars": 577
   },
   "resources": {
@@ -21,7 +21,7 @@
     "source_code": "https://github.com/stefanpejcic/OpenPanel",
     "logo": "/icons/openpanel.webp",
     "issues": "https://github.com/stefanpejcic/OpenPanel/issues",
-    "releases": "https://github.com/stefanpejcic/OpenPanel/releases"
+    "releases": null
   },
   "features": [
     "Domain management: Add, configure, and manage multiple domains with DNS settings and SSL certificate automation.",
